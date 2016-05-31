@@ -1,3 +1,10 @@
+/*
+ *  Copyright (c) 2016, Jyri J. Virkki
+ *  All rights reserved.
+ *
+ *  This file is under BSD license. See LICENSE file.
+ */
+
 package debug
 
 import "testing"
